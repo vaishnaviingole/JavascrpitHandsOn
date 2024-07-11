@@ -14,9 +14,13 @@ The Memory Game is a classic game where the player needs to match pairs of cards
 
 **How to Play**
 Open the index.html file located in the memory-game directory in your browser.
+
 Click on two cards to flip them over.
+
 If the cards match, they will disappear.
+
 If they do not match, they will flip back over.
+
 The game is won when all pairs are matched.
 
 **Video Walkthrough**
@@ -34,8 +38,11 @@ Paper beats rock
 **How to Play**
 
 Open the index.html file located in the rock-paper-scissors directory in your browser.
+
 Click on your choice (rock, paper, or scissors).
+
 The computer will randomly select its choice.
+
 The result will be displayed showing who won the round.
 
 **Video Walkthrough**
