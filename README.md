@@ -60,8 +60,11 @@ For Rock-Paper-Scissors: open rock-paper-scissors/index.html
 **Built With**
 
 HTML
+
 CSS
+
 JavaScript
+
 **Purpose**
 
 These projects were created for learning purposes. They are intended to help understand and practice basic JavaScript, HTML, and CSS concepts.
