@@ -13,6 +13,7 @@ The Memory Game is a classic game where the player needs to match pairs of cards
 
 
 **How to Play**
+
 Open the index.html file located in the memory-game directory in your browser.
 
 Click on two cards to flip them over.
